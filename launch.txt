@@ -1,0 +1,2 @@
+MUJOCO_GL=glfw python gym-hil/examples/test_teleoperation.py --use-keyboard
+create a conda env as well
